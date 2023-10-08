@@ -1,5 +1,6 @@
 # DS-A-Predicting-Billionaires-Net-Worth-Based-on-Age
 Project Title: Predicting Billionaires' Net Worth Based on Age
+
 Project Overview
 In this data-driven project, we aimed to analyze the relationship between the age of billionaires and their net worth using the Billionaires Statistics dataset. We developed a machine learning model to predict a billionaire's net worth based on their age. This project not only provided valuable insights into wealth distribution but also demonstrated the application of regression analysis in real-world datasets.
 
