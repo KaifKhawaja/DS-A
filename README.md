@@ -29,6 +29,8 @@ The scatter plot showed a positive linear relationship between age and net worth
 Conclusion
 This project demonstrated the utility of machine learning and regression analysis in predicting and understanding the relationship between age and net worth among billionaires. It provided valuable insights into wealth distribution and factors influencing billionaires' financial success. The project's success underscores the importance of data-driven analysis in gaining deeper insights into complex societal and economic phenomena.
 
+#Blog Link : https://medium.com/@kaifmohammad03/the-relationship-between-billionaires-and-sustainable-development-goals-sdgs-8d9a151cc5d8
+
 Project Developed By:
 20sw054
 section 2
